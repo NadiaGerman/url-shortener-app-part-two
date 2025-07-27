@@ -16,7 +16,6 @@ Parameters:
     Description: DynamoDB table name for short URL mapping
 
 Resources:
-
   WebsiteBucket:
     Type: AWS::S3::Bucket
     Properties:
