@@ -1,0 +1,4 @@
+.DS_Store
+*.zip
+__pycache__/
+screenshots/ # Remove this line if you want screenshots in the repo
